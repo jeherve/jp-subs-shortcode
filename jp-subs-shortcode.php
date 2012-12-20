@@ -16,7 +16,8 @@ function tweakjp_sub_shortcode() {
 		'before_widget' => '<div class="widget jetpack_subscription_widget">',
 		'after_widget'  => '</div>',
 		'before_title'  => '<div class="widget-title">',
-		'after_title'   => '</div>'
+		'after_title'   => '</div>',
+		'widget_id' => ''
 	);
 	
 	$instance = array(
