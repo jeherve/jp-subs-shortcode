@@ -4,7 +4,7 @@
  * Plugin URI: http://wordpress.org/extend/plugins/jetpack-subscriptions-shortcode/
  * Description: Extends the Jetpack plugin and allows you to add a Subscription form anywhere inside your posts thanks to the [jpsub] shortcode
  * Author: Jeremy Herve
- * Version: 1.0
+ * Version: 1.1
  * Author URI: http://jeremyherve.com
  * License: GPL2+
  * Text Domain: jetpack

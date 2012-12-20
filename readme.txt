@@ -3,7 +3,7 @@ Contributors: jeherve, hd-J
 Tags: WordPress.com, Jetpack, subscriptions, followers, shortcode 
 Requires at least: 3.2
 Tested up to: 3.5
-Stable tag: 1.0
+Stable tag: 1.1
 
 Extends the Jetpack plugin and allows you to add a Subscription form anywhere inside your posts thanks to the [jpsub] shortcode
 
@@ -25,6 +25,9 @@ This plugin is a work in progress. You can report issues [here](http://wordpress
 6. Enjoy! :)
 
 == Changelog ==
+
+= 1.1 =
+* Code cleanup, props @kovshenin
 
 = 1.0 =
 * Initial Release
